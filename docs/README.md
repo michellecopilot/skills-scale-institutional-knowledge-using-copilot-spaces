@@ -1,6 +1,6 @@
 # OctoAcme Project Management Docs
 
-Welcome to the OctoAcme project management documentation – your hub for best practices, templates, and process documents that guide how we run projects at OctoAcme.
+Welcome to the OctoAcme project management documentation – your hub for best practices, templates, and process documents that guide how we run projects at OctoAcme..
 
 ## What You'll Find Here
 
